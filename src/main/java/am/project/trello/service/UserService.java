@@ -1,6 +1,7 @@
 package am.project.trello.service;
 
 import am.project.trello.entity.UserEntity;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
